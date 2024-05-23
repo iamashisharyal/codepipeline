@@ -2,8 +2,8 @@ Resources:
   User1:
     Type: "AWS::IAM::User"
     Properties:
-      UserName: "ashisharyal"
+      UserName: "ashisharyalabataban"
   User2:
     Type: "AWS::IAM::User"
     Properties:
-      UserName: "iamshisharyal"
+      UserName: "iamshisharyalabatabanyoniiiiid"
